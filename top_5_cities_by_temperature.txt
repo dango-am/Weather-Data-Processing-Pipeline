@@ -1,0 +1,17 @@
+Top 5 Cities by Temperature celsius :
+
+('London', 64): 18.10 °C
+('London', 5): 8.40 °C
+('London', 14): 8.40 °C
+('London', 23): 8.40 °C
+('London', 35): 8.40 °C
+('New York', 55): 13.40 °C
+('New York', 34): 12.90 °C
+('New York', 70): 12.20 °C
+('New York', 66): 9.30 °C
+('New York', 1): 8.40 °C
+('Tokyo', 21): 19.30 °C
+('Tokyo', 7): 12.00 °C
+('Tokyo', 41): 10.20 °C
+('Tokyo', 6): 10.00 °C
+('Tokyo', 16): 8.40 °C
