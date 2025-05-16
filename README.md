@@ -7,7 +7,7 @@ type nul > requirements.txt
 pip install -r requirements.txt
 jupyter notebook scripts/weather_proj.ipynb
 # Approach and challenges faced
-## Approach Used
+## Approachs
 First the csv file was read using pandas.
 The second step was handling the missing values so the way I handeld it are as follows
    - I replaced Missing temperature value with their mean.
@@ -16,3 +16,6 @@ The second step was handling the missing values so the way I handeld it are as f
 Third step was standardzing the date so in this step dates were converted to `YYYY-MM-DD` and the different data separators like , and / were changed to 
 Fourth step was creating a new column `temperature_fahrenheit` by using the formula given  
 The final step was saving the chaged data and visualizing it by using bar chart
+
+## Challenges 
+The main challenge I face was in the date conversion step as the dates were put in different format I had to create a for loop that consists of all the date format and then convert it to date time. The other challenge was in git hub when I run the pipeline locally.
